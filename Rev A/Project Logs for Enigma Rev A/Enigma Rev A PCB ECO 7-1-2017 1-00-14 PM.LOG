@@ -1,0 +1,4 @@
+Added Component: Designator=SOM1(PicoZedSOM)
+Add component. Clean all parameters for all variants
+Added Class: Name=PicoZed Connector
+Added Room: Name=PicoZed Connector

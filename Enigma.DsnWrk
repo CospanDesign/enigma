@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Rev A\Enigma Rev A.PrjPCB
+[Project2]
+ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Main Library.LibPkg
+[Project3]
+ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Cospan Design Library\Cospan Design.LibPkg
