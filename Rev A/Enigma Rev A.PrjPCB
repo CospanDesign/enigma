@@ -56,6 +56,40 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
+DocumentPath=Schematics\Artemis Dionysus Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GBYITVEJ
+
+[Document3]
+DocumentPath=Schematics\Artemis HS Expansion Connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XESRBSNL
+
+[Document4]
 DocumentPath=Schematics\Block Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJEMKOWJ
 
-[Document3]
+[Document5]
 DocumentPath=PCB\Enigma Rev A.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRFJRRYC
 
-[Document4]
+[Document6]
 DocumentPath=..\Documents\Hardware\Downloads\PicoZed_SOM_Rev_C_INTLIB\PicoZed_SOM_Rev_C_INTLIB.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document7]
 DocumentPath=Schematics\PicoZed Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,6 +156,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLKPXSYM
+
+[Document8]
+DocumentPath=Schematics\Artemis Dionysus Connectors.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Schematics\Artemis HS Expansion Connector.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Parameter1]
 Name=Revision
@@ -753,6 +821,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1084,6 +1192,60 @@ UpdateCurrentModels=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Main Library.IntLib
+ComponentDesignItemID0=MNT_440_HOLE
+ComponentSymbolReference0=MNT_440_HOLE
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Main Library.IntLib
+ComponentDesignItemID1=S_TACTILE_5X5
+ComponentSymbolReference1=S_TACTILE_5X5
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Main LibraryX.SchLib
+ComponentDesignItemID2=C_0402_0.1UF_16V
+ComponentSymbolReference2=C_0402_0.1UF_16V
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Main LibraryX.SchLib
+ComponentDesignItemID3=J_ARTEMIS_EXP_120PIN_BRD
+ComponentSymbolReference3=J_ARTEMIS_EXP_120PIN_BRD
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Main LibraryX.SchLib
+ComponentDesignItemID4=J_HDR1X6_THRHOLE_VERT_FEMALE
+ComponentSymbolReference4=J_HDR1X6_THRHOLE_VERT_FEMALE
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Main LibraryX.SchLib
+ComponentDesignItemID5=J_HDR1X8_THRHOLE_VERT_FEMALE
+ComponentSymbolReference5=J_HDR1X8_THRHOLE_VERT_FEMALE
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Main LibraryX.SchLib
+ComponentDesignItemID6=J_PMOD
+ComponentSymbolReference6=J_PMOD
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Main LibraryX.SchLib
+ComponentDesignItemID7=R_0402_10.0K
+ComponentSymbolReference7=R_0402_10.0K
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=PicoZed_SOM_Rev_C_INTLIB.IntLib
+ComponentDesignItemID8=PicoZed_SOM
+ComponentSymbolReference8=PicoZed_SOM
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
