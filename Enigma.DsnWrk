@@ -1,10 +1,8 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Rev A\Enigma Rev A.PrjPCB
+ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Cospan Design Library\Cospan Design.LibPkg
 [Project2]
 ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Main Library.LibPkg
 [Project3]
-ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Cospan Design Library\Cospan Design.LibPkg
-[Project4]
-ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Artemis\Main Board\Rev B\Artemis PCB Project Rev B.PrjPCB
+ProjectPath=Rev A\Enigma Rev A.PrjPCB
