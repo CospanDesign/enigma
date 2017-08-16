@@ -1,1 +1,2 @@
+I2C Harness=SCL,SDA
 I2S Harness=MCLK,SCLK,LRCLK,SDIN
