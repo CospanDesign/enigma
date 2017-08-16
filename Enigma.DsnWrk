@@ -6,3 +6,13 @@ ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Cospan Design Library\Co
 ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Library\Main Library.LibPkg
 [Project3]
 ProjectPath=Rev A\Enigma Rev A.PrjPCB
+[Project4]
+ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Artemis\Main Board\Rev B\Artemis PCB Project Rev B.PrjPCB
+[Project5]
+ProjectPath=..\..\..\..\Dropbox\hardware\Altium\Prometheus\Rev B\Prometheus Rev B.PrjPcb
+[Project6]
+ProjectPath=..\..\..\..\Downloads\Imported breakyBreaky-r4p0.PrjPcb\breakyBreaky-r4p0.PrjPcb
+[Project7]
+ProjectPath=..\..\..\..\Downloads\tfm-120-01-x-d-a (1)\Imported TFM12001-X-D-A.PrjPcb\TFM12001-X-D-A.PrjPcb
+[Project8]
+ProjectPath=..\dionysus\Dionysus LCD PMOD\Rev B\Dionysus LCD PMOD Rev B.PrjPCB
