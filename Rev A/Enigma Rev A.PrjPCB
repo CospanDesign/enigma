@@ -684,29 +684,43 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=8D04440F-2748-4A1E-B725-C717443BB2FA
+Description=DEFAULT
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=R223|UniqueId=\UTVDRGUU\RNGRAGPD|Kind=1|AlternatePart= 
+Variation2=Designator=R224|UniqueId=\UTVDRGUU\TNSNJNBT|Kind=1|AlternatePart= 
+Variation3=Designator=R225|UniqueId=\UTVDRGUU\LPAYTXEX|Kind=1|AlternatePart= 
+Variation4=Designator=R226|UniqueId=\UTVDRGUU\FSAIJJYX|Kind=1|AlternatePart= 
+Variation5=Designator=C195|UniqueId=\UTVDRGUU\BRYQRCIN|Kind=1|AlternatePart= 
+Variation6=Designator=C196|UniqueId=\UTVDRGUU\CTMAMIPR|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Enigma Rev A\Mechanical\Mechanical\Enigma Rev A.step
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Revision
-Value=A
+Name=Company
+Value=Cospan Design LLC
 
 [Parameter2]
-Name=Project
-Value=Enigma
+Name=DrawnBy
+Value=Dave McCoy
 
 [Parameter3]
 Name=Engineer
 Value=Dave McCoy
 
 [Parameter4]
-Name=DrawnBy
-Value=Dave McCoy
+Name=Project
+Value=Enigma
 
 [Parameter5]
-Name=Company
-Value=Cospan Design LLC
+Name=Revision
+Value=A
 
 [Configuration1]
 Name=Default Configuration
