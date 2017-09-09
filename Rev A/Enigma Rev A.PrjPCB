@@ -11,7 +11,7 @@ TimestampOutput=0
 SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
-PinSwapBy_Pin=1
+PinSwapBy_Pin=0
 AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
@@ -689,38 +689,51 @@ UniqueID=8D04440F-2748-4A1E-B725-C717443BB2FA
 Description=DEFAULT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=11
 Variation1=Designator=R223|UniqueId=\UTVDRGUU\RNGRAGPD|Kind=1|AlternatePart= 
 Variation2=Designator=R224|UniqueId=\UTVDRGUU\TNSNJNBT|Kind=1|AlternatePart= 
 Variation3=Designator=R225|UniqueId=\UTVDRGUU\LPAYTXEX|Kind=1|AlternatePart= 
 Variation4=Designator=R226|UniqueId=\UTVDRGUU\FSAIJJYX|Kind=1|AlternatePart= 
 Variation5=Designator=C195|UniqueId=\UTVDRGUU\BRYQRCIN|Kind=1|AlternatePart= 
 Variation6=Designator=C196|UniqueId=\UTVDRGUU\CTMAMIPR|Kind=1|AlternatePart= 
+Variation7=Designator=J9|UniqueId=\XBLHTABP\PBKVYYFR\QACKYXFQ|Kind=1|AlternatePart= 
+Variation8=Designator=J28|UniqueId=\XBLHTABP\PBKVYYFR\ILLGKGXG|Kind=1|AlternatePart= 
+Variation9=Designator=J29|UniqueId=\MUXKGAAS|Kind=1|AlternatePart= 
+Variation10=Designator=J17|UniqueId=\UTVDRGUU\PIDLPSWV|Kind=1|AlternatePart= 
+Variation11=Designator=J3|UniqueId=\BIEDOMBA\UJNKKEWS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Enigma Rev A\Design Rule Check - Enigma Rev A.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Enigma Rev A\Mechanical\Mechanical\Enigma Rev A.step
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Enigma Rev A\Snickerdoodle FPGA JB.NET
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Company
-Value=Cospan Design LLC
+Name=Revision
+Value=A
 
 [Parameter2]
-Name=DrawnBy
-Value=Dave McCoy
+Name=Project
+Value=Enigma
 
 [Parameter3]
 Name=Engineer
 Value=Dave McCoy
 
 [Parameter4]
-Name=Project
-Value=Enigma
+Name=DrawnBy
+Value=Dave McCoy
 
 [Parameter5]
-Name=Revision
-Value=A
+Name=Company
+Value=Cospan Design LLC
 
 [Configuration1]
 Name=Default Configuration

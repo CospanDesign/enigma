@@ -2,3 +2,5 @@ History
 ~.*
 *.LOG
 __Previews
+
+*.PcbDocPreview
