@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:19:27 AM On 9/21/2017
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [DEFAULT] of Project [Enigma Rev A.PrjPCB]
+   Generated File[Bill of Materials-Enigma Rev A(DEFAULT).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:20:02 AM On 9/21/2017

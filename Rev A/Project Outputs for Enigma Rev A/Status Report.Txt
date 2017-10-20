@@ -1,0 +1,10 @@
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [Enigma Rev A.PrjPCB]
+   Generated File[Snickerdoodle FPGA JB.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:06:15 PM On 9/4/2017

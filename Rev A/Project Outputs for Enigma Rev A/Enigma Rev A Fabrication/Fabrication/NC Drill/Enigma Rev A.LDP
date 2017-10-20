@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\davem\OneDrive\Documents\GitHub\enigma\Rev A\PCB\Enigma Rev A.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=enigma rev a-plated.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=enigma rev a-nonplated.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl
